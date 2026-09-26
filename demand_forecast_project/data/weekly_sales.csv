@@ -1,0 +1,1249 @@
+week_start,category,units_sold
+2024-01-07,Bakery,662
+2024-01-14,Bakery,788
+2024-01-21,Bakery,774
+2024-01-28,Bakery,739
+2024-02-04,Bakery,711
+2024-02-11,Bakery,859
+2024-02-18,Bakery,858
+2024-02-25,Bakery,819
+2024-03-03,Bakery,951
+2024-03-10,Bakery,772
+2024-03-17,Bakery,744
+2024-03-24,Bakery,799
+2024-03-31,Bakery,840
+2024-04-07,Bakery,857
+2024-04-14,Bakery,821
+2024-04-21,Bakery,858
+2024-04-28,Bakery,745
+2024-05-05,Bakery,905
+2024-05-12,Bakery,793
+2024-05-19,Bakery,854
+2024-05-26,Bakery,787
+2024-06-02,Bakery,781
+2024-06-09,Bakery,774
+2024-06-16,Bakery,746
+2024-06-23,Bakery,738
+2024-06-30,Bakery,765
+2024-07-07,Bakery,673
+2024-07-14,Bakery,689
+2024-07-21,Bakery,621
+2024-07-28,Bakery,699
+2024-08-04,Bakery,552
+2024-08-11,Bakery,701
+2024-08-18,Bakery,569
+2024-08-25,Bakery,469
+2024-09-01,Bakery,561
+2024-09-08,Bakery,503
+2024-09-15,Bakery,598
+2024-09-22,Bakery,505
+2024-09-29,Bakery,517
+2024-10-06,Bakery,425
+2024-10-13,Bakery,518
+2024-10-20,Bakery,396
+2024-10-27,Bakery,458
+2024-11-03,Bakery,622
+2024-11-10,Bakery,635
+2024-11-17,Bakery,751
+2024-11-24,Bakery,677
+2024-12-01,Bakery,754
+2024-12-08,Bakery,780
+2024-12-15,Bakery,722
+2024-12-22,Bakery,908
+2024-12-29,Bakery,888
+2025-01-05,Bakery,711
+2025-01-12,Bakery,748
+2025-01-19,Bakery,778
+2025-01-26,Bakery,648
+2025-02-02,Bakery,779
+2025-02-09,Bakery,766
+2025-02-16,Bakery,759
+2025-02-23,Bakery,816
+2025-03-02,Bakery,959
+2025-03-09,Bakery,894
+2025-03-16,Bakery,823
+2025-03-23,Bakery,899
+2025-03-30,Bakery,951
+2025-04-06,Bakery,918
+2025-04-13,Bakery,860
+2025-04-20,Bakery,805
+2025-04-27,Bakery,883
+2025-05-04,Bakery,852
+2025-05-11,Bakery,871
+2025-05-18,Bakery,843
+2025-05-25,Bakery,855
+2025-06-01,Bakery,737
+2025-06-08,Bakery,834
+2025-06-15,Bakery,746
+2025-06-22,Bakery,850
+2025-06-29,Bakery,659
+2025-07-06,Bakery,795
+2025-07-13,Bakery,679
+2025-07-20,Bakery,608
+2025-07-27,Bakery,606
+2025-08-03,Bakery,601
+2025-08-10,Bakery,636
+2025-08-17,Bakery,631
+2025-08-24,Bakery,551
+2025-08-31,Bakery,577
+2025-09-07,Bakery,709
+2025-09-14,Bakery,681
+2025-09-21,Bakery,593
+2025-09-28,Bakery,568
+2025-10-05,Bakery,574
+2025-10-12,Bakery,612
+2025-10-19,Bakery,510
+2025-10-26,Bakery,566
+2025-11-02,Bakery,487
+2025-11-09,Bakery,634
+2025-11-16,Bakery,789
+2025-11-23,Bakery,730
+2025-11-30,Bakery,882
+2025-12-07,Bakery,716
+2025-12-14,Bakery,713
+2025-12-21,Bakery,839
+2025-12-28,Bakery,908
+2024-01-07,Beverages,1186
+2024-01-14,Beverages,1273
+2024-01-21,Beverages,1451
+2024-01-28,Beverages,1324
+2024-02-04,Beverages,1361
+2024-02-11,Beverages,1357
+2024-02-18,Beverages,1213
+2024-02-25,Beverages,1421
+2024-03-03,Beverages,1450
+2024-03-10,Beverages,1701
+2024-03-17,Beverages,1460
+2024-03-24,Beverages,1517
+2024-03-31,Beverages,1495
+2024-04-07,Beverages,1384
+2024-04-14,Beverages,1600
+2024-04-21,Beverages,1558
+2024-04-28,Beverages,1553
+2024-05-05,Beverages,1381
+2024-05-12,Beverages,1587
+2024-05-19,Beverages,1297
+2024-05-26,Beverages,1475
+2024-06-02,Beverages,1607
+2024-06-09,Beverages,1279
+2024-06-16,Beverages,1291
+2024-06-23,Beverages,1327
+2024-06-30,Beverages,1242
+2024-07-07,Beverages,1111
+2024-07-14,Beverages,1240
+2024-07-21,Beverages,1103
+2024-07-28,Beverages,1223
+2024-08-04,Beverages,1063
+2024-08-11,Beverages,1284
+2024-08-18,Beverages,1039
+2024-08-25,Beverages,1061
+2024-09-01,Beverages,1158
+2024-09-08,Beverages,944
+2024-09-15,Beverages,1076
+2024-09-22,Beverages,1166
+2024-09-29,Beverages,879
+2024-10-06,Beverages,1053
+2024-10-13,Beverages,1068
+2024-10-20,Beverages,1127
+2024-10-27,Beverages,945
+2024-11-03,Beverages,951
+2024-11-10,Beverages,1141
+2024-11-17,Beverages,1355
+2024-11-24,Beverages,1373
+2024-12-01,Beverages,1413
+2024-12-08,Beverages,1344
+2024-12-15,Beverages,1456
+2024-12-22,Beverages,1495
+2024-12-29,Beverages,1429
+2025-01-05,Beverages,1492
+2025-01-12,Beverages,1394
+2025-01-19,Beverages,1270
+2025-01-26,Beverages,1483
+2025-02-02,Beverages,1354
+2025-02-09,Beverages,1550
+2025-02-16,Beverages,1614
+2025-02-23,Beverages,1452
+2025-03-02,Beverages,1643
+2025-03-09,Beverages,1608
+2025-03-16,Beverages,1659
+2025-03-23,Beverages,1770
+2025-03-30,Beverages,1575
+2025-04-06,Beverages,1536
+2025-04-13,Beverages,1524
+2025-04-20,Beverages,1532
+2025-04-27,Beverages,1599
+2025-05-04,Beverages,1627
+2025-05-11,Beverages,1610
+2025-05-18,Beverages,1652
+2025-05-25,Beverages,1556
+2025-06-01,Beverages,1679
+2025-06-08,Beverages,1482
+2025-06-15,Beverages,1747
+2025-06-22,Beverages,1520
+2025-06-29,Beverages,1350
+2025-07-06,Beverages,1303
+2025-07-13,Beverages,1418
+2025-07-20,Beverages,1322
+2025-07-27,Beverages,1388
+2025-08-03,Beverages,1345
+2025-08-10,Beverages,1268
+2025-08-17,Beverages,1170
+2025-08-24,Beverages,1086
+2025-08-31,Beverages,1176
+2025-09-07,Beverages,1290
+2025-09-14,Beverages,1217
+2025-09-21,Beverages,1073
+2025-09-28,Beverages,1207
+2025-10-05,Beverages,1232
+2025-10-12,Beverages,1112
+2025-10-19,Beverages,1219
+2025-10-26,Beverages,1221
+2025-11-02,Beverages,1115
+2025-11-09,Beverages,1279
+2025-11-16,Beverages,1537
+2025-11-23,Beverages,1612
+2025-11-30,Beverages,1635
+2025-12-07,Beverages,1425
+2025-12-14,Beverages,1496
+2025-12-21,Beverages,1666
+2025-12-28,Beverages,1696
+2024-01-07,Bread & Grains,891
+2024-01-14,Bread & Grains,890
+2024-01-21,Bread & Grains,803
+2024-01-28,Bread & Grains,877
+2024-02-04,Bread & Grains,803
+2024-02-11,Bread & Grains,782
+2024-02-18,Bread & Grains,821
+2024-02-25,Bread & Grains,902
+2024-03-03,Bread & Grains,907
+2024-03-10,Bread & Grains,883
+2024-03-17,Bread & Grains,887
+2024-03-24,Bread & Grains,868
+2024-03-31,Bread & Grains,796
+2024-04-07,Bread & Grains,849
+2024-04-14,Bread & Grains,859
+2024-04-21,Bread & Grains,847
+2024-04-28,Bread & Grains,860
+2024-05-05,Bread & Grains,822
+2024-05-12,Bread & Grains,792
+2024-05-19,Bread & Grains,821
+2024-05-26,Bread & Grains,747
+2024-06-02,Bread & Grains,688
+2024-06-09,Bread & Grains,718
+2024-06-16,Bread & Grains,675
+2024-06-23,Bread & Grains,669
+2024-06-30,Bread & Grains,694
+2024-07-07,Bread & Grains,651
+2024-07-14,Bread & Grains,672
+2024-07-21,Bread & Grains,579
+2024-07-28,Bread & Grains,693
+2024-08-04,Bread & Grains,682
+2024-08-11,Bread & Grains,636
+2024-08-18,Bread & Grains,719
+2024-08-25,Bread & Grains,738
+2024-09-01,Bread & Grains,595
+2024-09-08,Bread & Grains,645
+2024-09-15,Bread & Grains,649
+2024-09-22,Bread & Grains,647
+2024-09-29,Bread & Grains,759
+2024-10-06,Bread & Grains,716
+2024-10-13,Bread & Grains,724
+2024-10-20,Bread & Grains,639
+2024-10-27,Bread & Grains,795
+2024-11-03,Bread & Grains,702
+2024-11-10,Bread & Grains,785
+2024-11-17,Bread & Grains,944
+2024-11-24,Bread & Grains,1017
+2024-12-01,Bread & Grains,879
+2024-12-08,Bread & Grains,791
+2024-12-15,Bread & Grains,984
+2024-12-22,Bread & Grains,1083
+2024-12-29,Bread & Grains,1062
+2025-01-05,Bread & Grains,883
+2025-01-12,Bread & Grains,849
+2025-01-19,Bread & Grains,923
+2025-01-26,Bread & Grains,828
+2025-02-02,Bread & Grains,915
+2025-02-09,Bread & Grains,923
+2025-02-16,Bread & Grains,953
+2025-02-23,Bread & Grains,1048
+2025-03-02,Bread & Grains,913
+2025-03-09,Bread & Grains,858
+2025-03-16,Bread & Grains,886
+2025-03-23,Bread & Grains,780
+2025-03-30,Bread & Grains,833
+2025-04-06,Bread & Grains,842
+2025-04-13,Bread & Grains,829
+2025-04-20,Bread & Grains,857
+2025-04-27,Bread & Grains,792
+2025-05-04,Bread & Grains,890
+2025-05-11,Bread & Grains,816
+2025-05-18,Bread & Grains,804
+2025-05-25,Bread & Grains,776
+2025-06-01,Bread & Grains,791
+2025-06-08,Bread & Grains,819
+2025-06-15,Bread & Grains,714
+2025-06-22,Bread & Grains,719
+2025-06-29,Bread & Grains,731
+2025-07-06,Bread & Grains,661
+2025-07-13,Bread & Grains,687
+2025-07-20,Bread & Grains,700
+2025-07-27,Bread & Grains,770
+2025-08-03,Bread & Grains,733
+2025-08-10,Bread & Grains,731
+2025-08-17,Bread & Grains,764
+2025-08-24,Bread & Grains,718
+2025-08-31,Bread & Grains,753
+2025-09-07,Bread & Grains,731
+2025-09-14,Bread & Grains,758
+2025-09-21,Bread & Grains,718
+2025-09-28,Bread & Grains,624
+2025-10-05,Bread & Grains,764
+2025-10-12,Bread & Grains,863
+2025-10-19,Bread & Grains,847
+2025-10-26,Bread & Grains,861
+2025-11-02,Bread & Grains,889
+2025-11-09,Bread & Grains,837
+2025-11-16,Bread & Grains,993
+2025-11-23,Bread & Grains,961
+2025-11-30,Bread & Grains,985
+2025-12-07,Bread & Grains,1050
+2025-12-14,Bread & Grains,1095
+2025-12-21,Bread & Grains,1031
+2025-12-28,Bread & Grains,1022
+2024-01-07,Confectionery,132
+2024-01-14,Confectionery,363
+2024-01-21,Confectionery,163
+2024-01-28,Confectionery,229
+2024-02-04,Confectionery,218
+2024-02-11,Confectionery,284
+2024-02-18,Confectionery,152
+2024-02-25,Confectionery,295
+2024-03-03,Confectionery,409
+2024-03-10,Confectionery,215
+2024-03-17,Confectionery,337
+2024-03-24,Confectionery,309
+2024-03-31,Confectionery,407
+2024-04-07,Confectionery,409
+2024-04-14,Confectionery,401
+2024-04-21,Confectionery,506
+2024-04-28,Confectionery,626
+2024-05-05,Confectionery,530
+2024-05-12,Confectionery,620
+2024-05-19,Confectionery,527
+2024-05-26,Confectionery,584
+2024-06-02,Confectionery,705
+2024-06-09,Confectionery,799
+2024-06-16,Confectionery,758
+2024-06-23,Confectionery,739
+2024-06-30,Confectionery,786
+2024-07-07,Confectionery,725
+2024-07-14,Confectionery,862
+2024-07-21,Confectionery,893
+2024-07-28,Confectionery,819
+2024-08-04,Confectionery,823
+2024-08-11,Confectionery,872
+2024-08-18,Confectionery,826
+2024-08-25,Confectionery,842
+2024-09-01,Confectionery,974
+2024-09-08,Confectionery,811
+2024-09-15,Confectionery,788
+2024-09-22,Confectionery,749
+2024-09-29,Confectionery,811
+2024-10-06,Confectionery,729
+2024-10-13,Confectionery,680
+2024-10-20,Confectionery,782
+2024-10-27,Confectionery,761
+2024-11-03,Confectionery,603
+2024-11-10,Confectionery,494
+2024-11-17,Confectionery,742
+2024-11-24,Confectionery,604
+2024-12-01,Confectionery,676
+2024-12-08,Confectionery,477
+2024-12-15,Confectionery,640
+2024-12-22,Confectionery,487
+2024-12-29,Confectionery,595
+2025-01-05,Confectionery,447
+2025-01-12,Confectionery,376
+2025-01-19,Confectionery,404
+2025-01-26,Confectionery,469
+2025-02-02,Confectionery,433
+2025-02-09,Confectionery,472
+2025-02-16,Confectionery,566
+2025-02-23,Confectionery,348
+2025-03-02,Confectionery,568
+2025-03-09,Confectionery,490
+2025-03-16,Confectionery,448
+2025-03-23,Confectionery,446
+2025-03-30,Confectionery,546
+2025-04-06,Confectionery,651
+2025-04-13,Confectionery,612
+2025-04-20,Confectionery,748
+2025-04-27,Confectionery,592
+2025-05-04,Confectionery,715
+2025-05-11,Confectionery,670
+2025-05-18,Confectionery,812
+2025-05-25,Confectionery,879
+2025-06-01,Confectionery,829
+2025-06-08,Confectionery,717
+2025-06-15,Confectionery,923
+2025-06-22,Confectionery,964
+2025-06-29,Confectionery,985
+2025-07-06,Confectionery,1062
+2025-07-13,Confectionery,933
+2025-07-20,Confectionery,1056
+2025-07-27,Confectionery,1099
+2025-08-03,Confectionery,917
+2025-08-10,Confectionery,1056
+2025-08-17,Confectionery,1006
+2025-08-24,Confectionery,1026
+2025-08-31,Confectionery,1042
+2025-09-07,Confectionery,974
+2025-09-14,Confectionery,946
+2025-09-21,Confectionery,975
+2025-09-28,Confectionery,885
+2025-10-05,Confectionery,862
+2025-10-12,Confectionery,949
+2025-10-19,Confectionery,806
+2025-10-26,Confectionery,893
+2025-11-02,Confectionery,858
+2025-11-09,Confectionery,686
+2025-11-16,Confectionery,816
+2025-11-23,Confectionery,914
+2025-11-30,Confectionery,749
+2025-12-07,Confectionery,758
+2025-12-14,Confectionery,794
+2025-12-21,Confectionery,795
+2025-12-28,Confectionery,716
+2024-01-07,Dairy,1321
+2024-01-14,Dairy,1577
+2024-01-21,Dairy,1453
+2024-01-28,Dairy,1597
+2024-02-04,Dairy,1459
+2024-02-11,Dairy,1351
+2024-02-18,Dairy,1370
+2024-02-25,Dairy,1559
+2024-03-03,Dairy,1582
+2024-03-10,Dairy,1452
+2024-03-17,Dairy,1614
+2024-03-24,Dairy,1351
+2024-03-31,Dairy,1524
+2024-04-07,Dairy,1378
+2024-04-14,Dairy,1424
+2024-04-21,Dairy,1481
+2024-04-28,Dairy,1365
+2024-05-05,Dairy,1408
+2024-05-12,Dairy,1557
+2024-05-19,Dairy,1367
+2024-05-26,Dairy,1518
+2024-06-02,Dairy,1280
+2024-06-09,Dairy,1447
+2024-06-16,Dairy,1537
+2024-06-23,Dairy,1091
+2024-06-30,Dairy,1269
+2024-07-07,Dairy,1407
+2024-07-14,Dairy,1313
+2024-07-21,Dairy,1367
+2024-07-28,Dairy,1258
+2024-08-04,Dairy,1336
+2024-08-11,Dairy,1305
+2024-08-18,Dairy,1454
+2024-08-25,Dairy,1351
+2024-09-01,Dairy,1366
+2024-09-08,Dairy,1293
+2024-09-15,Dairy,1290
+2024-09-22,Dairy,1308
+2024-09-29,Dairy,1410
+2024-10-06,Dairy,1328
+2024-10-13,Dairy,1421
+2024-10-20,Dairy,1631
+2024-10-27,Dairy,1509
+2024-11-03,Dairy,1385
+2024-11-10,Dairy,1580
+2024-11-17,Dairy,1667
+2024-11-24,Dairy,1497
+2024-12-01,Dairy,1628
+2024-12-08,Dairy,1545
+2024-12-15,Dairy,1727
+2024-12-22,Dairy,1783
+2024-12-29,Dairy,1983
+2025-01-05,Dairy,1587
+2025-01-12,Dairy,1532
+2025-01-19,Dairy,1654
+2025-01-26,Dairy,1309
+2025-02-02,Dairy,1580
+2025-02-09,Dairy,1647
+2025-02-16,Dairy,1402
+2025-02-23,Dairy,1692
+2025-03-02,Dairy,1601
+2025-03-09,Dairy,1512
+2025-03-16,Dairy,1635
+2025-03-23,Dairy,1815
+2025-03-30,Dairy,1571
+2025-04-06,Dairy,1564
+2025-04-13,Dairy,1466
+2025-04-20,Dairy,1411
+2025-04-27,Dairy,1583
+2025-05-04,Dairy,1375
+2025-05-11,Dairy,1463
+2025-05-18,Dairy,1383
+2025-05-25,Dairy,1484
+2025-06-01,Dairy,1459
+2025-06-08,Dairy,1526
+2025-06-15,Dairy,1347
+2025-06-22,Dairy,1365
+2025-06-29,Dairy,1273
+2025-07-06,Dairy,1331
+2025-07-13,Dairy,1420
+2025-07-20,Dairy,1453
+2025-07-27,Dairy,1262
+2025-08-03,Dairy,1457
+2025-08-10,Dairy,1507
+2025-08-17,Dairy,1407
+2025-08-24,Dairy,1583
+2025-08-31,Dairy,1286
+2025-09-07,Dairy,1243
+2025-09-14,Dairy,1190
+2025-09-21,Dairy,1565
+2025-09-28,Dairy,1480
+2025-10-05,Dairy,1409
+2025-10-12,Dairy,1461
+2025-10-19,Dairy,1314
+2025-10-26,Dairy,1730
+2025-11-02,Dairy,1486
+2025-11-09,Dairy,1498
+2025-11-16,Dairy,1831
+2025-11-23,Dairy,1816
+2025-11-30,Dairy,1805
+2025-12-07,Dairy,1708
+2025-12-14,Dairy,1858
+2025-12-21,Dairy,2029
+2025-12-28,Dairy,1982
+2024-01-07,Frozen Foods,897
+2024-01-14,Frozen Foods,858
+2024-01-21,Frozen Foods,903
+2024-01-28,Frozen Foods,795
+2024-02-04,Frozen Foods,870
+2024-02-11,Frozen Foods,696
+2024-02-18,Frozen Foods,863
+2024-02-25,Frozen Foods,802
+2024-03-03,Frozen Foods,762
+2024-03-10,Frozen Foods,790
+2024-03-17,Frozen Foods,815
+2024-03-24,Frozen Foods,744
+2024-03-31,Frozen Foods,522
+2024-04-07,Frozen Foods,547
+2024-04-14,Frozen Foods,578
+2024-04-21,Frozen Foods,611
+2024-04-28,Frozen Foods,638
+2024-05-05,Frozen Foods,549
+2024-05-12,Frozen Foods,613
+2024-05-19,Frozen Foods,543
+2024-05-26,Frozen Foods,558
+2024-06-02,Frozen Foods,508
+2024-06-09,Frozen Foods,547
+2024-06-16,Frozen Foods,531
+2024-06-23,Frozen Foods,574
+2024-06-30,Frozen Foods,742
+2024-07-07,Frozen Foods,624
+2024-07-14,Frozen Foods,909
+2024-07-21,Frozen Foods,780
+2024-07-28,Frozen Foods,781
+2024-08-04,Frozen Foods,740
+2024-08-11,Frozen Foods,881
+2024-08-18,Frozen Foods,817
+2024-08-25,Frozen Foods,895
+2024-09-01,Frozen Foods,1098
+2024-09-08,Frozen Foods,933
+2024-09-15,Frozen Foods,1045
+2024-09-22,Frozen Foods,934
+2024-09-29,Frozen Foods,1003
+2024-10-06,Frozen Foods,1150
+2024-10-13,Frozen Foods,991
+2024-10-20,Frozen Foods,1180
+2024-10-27,Frozen Foods,1111
+2024-11-03,Frozen Foods,1030
+2024-11-10,Frozen Foods,1113
+2024-11-17,Frozen Foods,1286
+2024-11-24,Frozen Foods,1262
+2024-12-01,Frozen Foods,1093
+2024-12-08,Frozen Foods,1144
+2024-12-15,Frozen Foods,1166
+2024-12-22,Frozen Foods,1161
+2024-12-29,Frozen Foods,1192
+2025-01-05,Frozen Foods,994
+2025-01-12,Frozen Foods,869
+2025-01-19,Frozen Foods,973
+2025-01-26,Frozen Foods,970
+2025-02-02,Frozen Foods,944
+2025-02-09,Frozen Foods,953
+2025-02-16,Frozen Foods,909
+2025-02-23,Frozen Foods,858
+2025-03-02,Frozen Foods,793
+2025-03-09,Frozen Foods,657
+2025-03-16,Frozen Foods,785
+2025-03-23,Frozen Foods,748
+2025-03-30,Frozen Foods,737
+2025-04-06,Frozen Foods,611
+2025-04-13,Frozen Foods,611
+2025-04-20,Frozen Foods,757
+2025-04-27,Frozen Foods,668
+2025-05-04,Frozen Foods,718
+2025-05-11,Frozen Foods,671
+2025-05-18,Frozen Foods,673
+2025-05-25,Frozen Foods,744
+2025-06-01,Frozen Foods,645
+2025-06-08,Frozen Foods,703
+2025-06-15,Frozen Foods,676
+2025-06-22,Frozen Foods,694
+2025-06-29,Frozen Foods,725
+2025-07-06,Frozen Foods,784
+2025-07-13,Frozen Foods,753
+2025-07-20,Frozen Foods,899
+2025-07-27,Frozen Foods,772
+2025-08-03,Frozen Foods,847
+2025-08-10,Frozen Foods,862
+2025-08-17,Frozen Foods,1020
+2025-08-24,Frozen Foods,962
+2025-08-31,Frozen Foods,1050
+2025-09-07,Frozen Foods,895
+2025-09-14,Frozen Foods,1044
+2025-09-21,Frozen Foods,1113
+2025-09-28,Frozen Foods,1076
+2025-10-05,Frozen Foods,1168
+2025-10-12,Frozen Foods,1071
+2025-10-19,Frozen Foods,1223
+2025-10-26,Frozen Foods,1297
+2025-11-02,Frozen Foods,1112
+2025-11-09,Frozen Foods,1111
+2025-11-16,Frozen Foods,1388
+2025-11-23,Frozen Foods,1391
+2025-11-30,Frozen Foods,1236
+2025-12-07,Frozen Foods,1236
+2025-12-14,Frozen Foods,1234
+2025-12-21,Frozen Foods,1143
+2025-12-28,Frozen Foods,1158
+2024-01-07,Health Supplements,260
+2024-01-14,Health Supplements,300
+2024-01-21,Health Supplements,331
+2024-01-28,Health Supplements,294
+2024-02-04,Health Supplements,324
+2024-02-11,Health Supplements,332
+2024-02-18,Health Supplements,386
+2024-02-25,Health Supplements,396
+2024-03-03,Health Supplements,382
+2024-03-10,Health Supplements,430
+2024-03-17,Health Supplements,421
+2024-03-24,Health Supplements,443
+2024-03-31,Health Supplements,528
+2024-04-07,Health Supplements,529
+2024-04-14,Health Supplements,450
+2024-04-21,Health Supplements,539
+2024-04-28,Health Supplements,554
+2024-05-05,Health Supplements,502
+2024-05-12,Health Supplements,583
+2024-05-19,Health Supplements,618
+2024-05-26,Health Supplements,535
+2024-06-02,Health Supplements,551
+2024-06-09,Health Supplements,625
+2024-06-16,Health Supplements,607
+2024-06-23,Health Supplements,621
+2024-06-30,Health Supplements,617
+2024-07-07,Health Supplements,622
+2024-07-14,Health Supplements,562
+2024-07-21,Health Supplements,646
+2024-07-28,Health Supplements,647
+2024-08-04,Health Supplements,594
+2024-08-11,Health Supplements,595
+2024-08-18,Health Supplements,538
+2024-08-25,Health Supplements,606
+2024-09-01,Health Supplements,602
+2024-09-08,Health Supplements,576
+2024-09-15,Health Supplements,611
+2024-09-22,Health Supplements,554
+2024-09-29,Health Supplements,577
+2024-10-06,Health Supplements,514
+2024-10-13,Health Supplements,544
+2024-10-20,Health Supplements,534
+2024-10-27,Health Supplements,543
+2024-11-03,Health Supplements,517
+2024-11-10,Health Supplements,520
+2024-11-17,Health Supplements,623
+2024-11-24,Health Supplements,579
+2024-12-01,Health Supplements,538
+2024-12-08,Health Supplements,658
+2024-12-15,Health Supplements,648
+2024-12-22,Health Supplements,558
+2024-12-29,Health Supplements,632
+2025-01-05,Health Supplements,525
+2025-01-12,Health Supplements,560
+2025-01-19,Health Supplements,571
+2025-01-26,Health Supplements,562
+2025-02-02,Health Supplements,551
+2025-02-09,Health Supplements,568
+2025-02-16,Health Supplements,572
+2025-02-23,Health Supplements,587
+2025-03-02,Health Supplements,629
+2025-03-09,Health Supplements,620
+2025-03-16,Health Supplements,686
+2025-03-23,Health Supplements,730
+2025-03-30,Health Supplements,673
+2025-04-06,Health Supplements,714
+2025-04-13,Health Supplements,739
+2025-04-20,Health Supplements,752
+2025-04-27,Health Supplements,751
+2025-05-04,Health Supplements,787
+2025-05-11,Health Supplements,787
+2025-05-18,Health Supplements,737
+2025-05-25,Health Supplements,819
+2025-06-01,Health Supplements,826
+2025-06-08,Health Supplements,772
+2025-06-15,Health Supplements,808
+2025-06-22,Health Supplements,834
+2025-06-29,Health Supplements,807
+2025-07-06,Health Supplements,853
+2025-07-13,Health Supplements,897
+2025-07-20,Health Supplements,783
+2025-07-27,Health Supplements,762
+2025-08-03,Health Supplements,818
+2025-08-10,Health Supplements,828
+2025-08-17,Health Supplements,790
+2025-08-24,Health Supplements,844
+2025-08-31,Health Supplements,741
+2025-09-07,Health Supplements,808
+2025-09-14,Health Supplements,755
+2025-09-21,Health Supplements,828
+2025-09-28,Health Supplements,831
+2025-10-05,Health Supplements,727
+2025-10-12,Health Supplements,727
+2025-10-19,Health Supplements,770
+2025-10-26,Health Supplements,722
+2025-11-02,Health Supplements,729
+2025-11-09,Health Supplements,729
+2025-11-16,Health Supplements,729
+2025-11-23,Health Supplements,794
+2025-11-30,Health Supplements,769
+2025-12-07,Health Supplements,779
+2025-12-14,Health Supplements,851
+2025-12-21,Health Supplements,757
+2025-12-28,Health Supplements,834
+2024-01-07,Household Care,603
+2024-01-14,Household Care,607
+2024-01-21,Household Care,551
+2024-01-28,Household Care,529
+2024-02-04,Household Care,670
+2024-02-11,Household Care,550
+2024-02-18,Household Care,541
+2024-02-25,Household Care,479
+2024-03-03,Household Care,552
+2024-03-10,Household Care,519
+2024-03-17,Household Care,659
+2024-03-24,Household Care,629
+2024-03-31,Household Care,548
+2024-04-07,Household Care,691
+2024-04-14,Household Care,631
+2024-04-21,Household Care,570
+2024-04-28,Household Care,469
+2024-05-05,Household Care,706
+2024-05-12,Household Care,535
+2024-05-19,Household Care,528
+2024-05-26,Household Care,665
+2024-06-02,Household Care,735
+2024-06-09,Household Care,695
+2024-06-16,Household Care,661
+2024-06-23,Household Care,671
+2024-06-30,Household Care,690
+2024-07-07,Household Care,693
+2024-07-14,Household Care,682
+2024-07-21,Household Care,682
+2024-07-28,Household Care,685
+2024-08-04,Household Care,661
+2024-08-11,Household Care,694
+2024-08-18,Household Care,635
+2024-08-25,Household Care,717
+2024-09-01,Household Care,684
+2024-09-08,Household Care,685
+2024-09-15,Household Care,750
+2024-09-22,Household Care,813
+2024-09-29,Household Care,798
+2024-10-06,Household Care,684
+2024-10-13,Household Care,714
+2024-10-20,Household Care,808
+2024-10-27,Household Care,717
+2024-11-03,Household Care,757
+2024-11-10,Household Care,795
+2024-11-17,Household Care,830
+2024-11-24,Household Care,881
+2024-12-01,Household Care,810
+2024-12-08,Household Care,842
+2024-12-15,Household Care,882
+2024-12-22,Household Care,786
+2024-12-29,Household Care,879
+2025-01-05,Household Care,746
+2025-01-12,Household Care,768
+2025-01-19,Household Care,749
+2025-01-26,Household Care,799
+2025-02-02,Household Care,735
+2025-02-09,Household Care,701
+2025-02-16,Household Care,725
+2025-02-23,Household Care,743
+2025-03-02,Household Care,718
+2025-03-09,Household Care,711
+2025-03-16,Household Care,677
+2025-03-23,Household Care,678
+2025-03-30,Household Care,645
+2025-04-06,Household Care,796
+2025-04-13,Household Care,655
+2025-04-20,Household Care,682
+2025-04-27,Household Care,683
+2025-05-04,Household Care,769
+2025-05-11,Household Care,717
+2025-05-18,Household Care,797
+2025-05-25,Household Care,714
+2025-06-01,Household Care,768
+2025-06-08,Household Care,723
+2025-06-15,Household Care,875
+2025-06-22,Household Care,728
+2025-06-29,Household Care,809
+2025-07-06,Household Care,835
+2025-07-13,Household Care,836
+2025-07-20,Household Care,819
+2025-07-27,Household Care,833
+2025-08-03,Household Care,852
+2025-08-10,Household Care,850
+2025-08-17,Household Care,915
+2025-08-24,Household Care,981
+2025-08-31,Household Care,857
+2025-09-07,Household Care,824
+2025-09-14,Household Care,891
+2025-09-21,Household Care,1026
+2025-09-28,Household Care,869
+2025-10-05,Household Care,991
+2025-10-12,Household Care,998
+2025-10-19,Household Care,894
+2025-10-26,Household Care,949
+2025-11-02,Household Care,1002
+2025-11-09,Household Care,908
+2025-11-16,Household Care,1021
+2025-11-23,Household Care,1002
+2025-11-30,Household Care,980
+2025-12-07,Household Care,994
+2025-12-14,Household Care,965
+2025-12-21,Household Care,1021
+2025-12-28,Household Care,978
+2024-01-07,Meat & Seafood,963
+2024-01-14,Meat & Seafood,978
+2024-01-21,Meat & Seafood,907
+2024-01-28,Meat & Seafood,1028
+2024-02-04,Meat & Seafood,804
+2024-02-11,Meat & Seafood,856
+2024-02-18,Meat & Seafood,752
+2024-02-25,Meat & Seafood,680
+2024-03-03,Meat & Seafood,724
+2024-03-10,Meat & Seafood,755
+2024-03-17,Meat & Seafood,712
+2024-03-24,Meat & Seafood,677
+2024-03-31,Meat & Seafood,609
+2024-04-07,Meat & Seafood,725
+2024-04-14,Meat & Seafood,600
+2024-04-21,Meat & Seafood,798
+2024-04-28,Meat & Seafood,742
+2024-05-05,Meat & Seafood,612
+2024-05-12,Meat & Seafood,718
+2024-05-19,Meat & Seafood,692
+2024-05-26,Meat & Seafood,796
+2024-06-02,Meat & Seafood,905
+2024-06-09,Meat & Seafood,639
+2024-06-16,Meat & Seafood,835
+2024-06-23,Meat & Seafood,834
+2024-06-30,Meat & Seafood,929
+2024-07-07,Meat & Seafood,915
+2024-07-14,Meat & Seafood,854
+2024-07-21,Meat & Seafood,920
+2024-07-28,Meat & Seafood,899
+2024-08-04,Meat & Seafood,1089
+2024-08-11,Meat & Seafood,1027
+2024-08-18,Meat & Seafood,1212
+2024-08-25,Meat & Seafood,1059
+2024-09-01,Meat & Seafood,1024
+2024-09-08,Meat & Seafood,972
+2024-09-15,Meat & Seafood,964
+2024-09-22,Meat & Seafood,998
+2024-09-29,Meat & Seafood,1175
+2024-10-06,Meat & Seafood,1208
+2024-10-13,Meat & Seafood,1031
+2024-10-20,Meat & Seafood,1251
+2024-10-27,Meat & Seafood,1131
+2024-11-03,Meat & Seafood,1190
+2024-11-10,Meat & Seafood,1312
+2024-11-17,Meat & Seafood,1400
+2024-11-24,Meat & Seafood,1289
+2024-12-01,Meat & Seafood,1220
+2024-12-08,Meat & Seafood,1086
+2024-12-15,Meat & Seafood,1198
+2024-12-22,Meat & Seafood,1221
+2024-12-29,Meat & Seafood,1132
+2025-01-05,Meat & Seafood,1024
+2025-01-12,Meat & Seafood,1021
+2025-01-19,Meat & Seafood,973
+2025-01-26,Meat & Seafood,912
+2025-02-02,Meat & Seafood,963
+2025-02-09,Meat & Seafood,964
+2025-02-16,Meat & Seafood,811
+2025-02-23,Meat & Seafood,1014
+2025-03-02,Meat & Seafood,860
+2025-03-09,Meat & Seafood,858
+2025-03-16,Meat & Seafood,903
+2025-03-23,Meat & Seafood,853
+2025-03-30,Meat & Seafood,909
+2025-04-06,Meat & Seafood,850
+2025-04-13,Meat & Seafood,767
+2025-04-20,Meat & Seafood,851
+2025-04-27,Meat & Seafood,721
+2025-05-04,Meat & Seafood,836
+2025-05-11,Meat & Seafood,835
+2025-05-18,Meat & Seafood,825
+2025-05-25,Meat & Seafood,842
+2025-06-01,Meat & Seafood,701
+2025-06-08,Meat & Seafood,839
+2025-06-15,Meat & Seafood,922
+2025-06-22,Meat & Seafood,949
+2025-06-29,Meat & Seafood,867
+2025-07-06,Meat & Seafood,1094
+2025-07-13,Meat & Seafood,935
+2025-07-20,Meat & Seafood,1119
+2025-07-27,Meat & Seafood,1097
+2025-08-03,Meat & Seafood,1031
+2025-08-10,Meat & Seafood,1270
+2025-08-17,Meat & Seafood,1032
+2025-08-24,Meat & Seafood,1243
+2025-08-31,Meat & Seafood,1262
+2025-09-07,Meat & Seafood,1135
+2025-09-14,Meat & Seafood,1331
+2025-09-21,Meat & Seafood,1194
+2025-09-28,Meat & Seafood,1254
+2025-10-05,Meat & Seafood,1264
+2025-10-12,Meat & Seafood,1235
+2025-10-19,Meat & Seafood,1324
+2025-10-26,Meat & Seafood,1327
+2025-11-02,Meat & Seafood,1105
+2025-11-09,Meat & Seafood,1373
+2025-11-16,Meat & Seafood,1268
+2025-11-23,Meat & Seafood,1494
+2025-11-30,Meat & Seafood,1483
+2025-12-07,Meat & Seafood,1271
+2025-12-14,Meat & Seafood,1310
+2025-12-21,Meat & Seafood,1237
+2025-12-28,Meat & Seafood,1294
+2024-01-07,Personal Care,653
+2024-01-14,Personal Care,659
+2024-01-21,Personal Care,597
+2024-01-28,Personal Care,505
+2024-02-04,Personal Care,590
+2024-02-11,Personal Care,627
+2024-02-18,Personal Care,540
+2024-02-25,Personal Care,606
+2024-03-03,Personal Care,593
+2024-03-10,Personal Care,613
+2024-03-17,Personal Care,583
+2024-03-24,Personal Care,526
+2024-03-31,Personal Care,617
+2024-04-07,Personal Care,548
+2024-04-14,Personal Care,548
+2024-04-21,Personal Care,499
+2024-04-28,Personal Care,514
+2024-05-05,Personal Care,486
+2024-05-12,Personal Care,513
+2024-05-19,Personal Care,592
+2024-05-26,Personal Care,449
+2024-06-02,Personal Care,438
+2024-06-09,Personal Care,577
+2024-06-16,Personal Care,502
+2024-06-23,Personal Care,481
+2024-06-30,Personal Care,559
+2024-07-07,Personal Care,491
+2024-07-14,Personal Care,605
+2024-07-21,Personal Care,563
+2024-07-28,Personal Care,518
+2024-08-04,Personal Care,645
+2024-08-11,Personal Care,529
+2024-08-18,Personal Care,599
+2024-08-25,Personal Care,589
+2024-09-01,Personal Care,645
+2024-09-08,Personal Care,669
+2024-09-15,Personal Care,611
+2024-09-22,Personal Care,585
+2024-09-29,Personal Care,648
+2024-10-06,Personal Care,609
+2024-10-13,Personal Care,739
+2024-10-20,Personal Care,662
+2024-10-27,Personal Care,650
+2024-11-03,Personal Care,688
+2024-11-10,Personal Care,628
+2024-11-17,Personal Care,753
+2024-11-24,Personal Care,858
+2024-12-01,Personal Care,780
+2024-12-08,Personal Care,769
+2024-12-15,Personal Care,843
+2024-12-22,Personal Care,875
+2024-12-29,Personal Care,856
+2025-01-05,Personal Care,769
+2025-01-12,Personal Care,691
+2025-01-19,Personal Care,659
+2025-01-26,Personal Care,785
+2025-02-02,Personal Care,700
+2025-02-09,Personal Care,697
+2025-02-16,Personal Care,762
+2025-02-23,Personal Care,721
+2025-03-02,Personal Care,712
+2025-03-09,Personal Care,782
+2025-03-16,Personal Care,648
+2025-03-23,Personal Care,712
+2025-03-30,Personal Care,667
+2025-04-06,Personal Care,670
+2025-04-13,Personal Care,719
+2025-04-20,Personal Care,664
+2025-04-27,Personal Care,657
+2025-05-04,Personal Care,675
+2025-05-11,Personal Care,604
+2025-05-18,Personal Care,578
+2025-05-25,Personal Care,566
+2025-06-01,Personal Care,523
+2025-06-08,Personal Care,702
+2025-06-15,Personal Care,561
+2025-06-22,Personal Care,602
+2025-06-29,Personal Care,599
+2025-07-06,Personal Care,627
+2025-07-13,Personal Care,654
+2025-07-20,Personal Care,659
+2025-07-27,Personal Care,602
+2025-08-03,Personal Care,631
+2025-08-10,Personal Care,662
+2025-08-17,Personal Care,647
+2025-08-24,Personal Care,743
+2025-08-31,Personal Care,704
+2025-09-07,Personal Care,725
+2025-09-14,Personal Care,732
+2025-09-21,Personal Care,766
+2025-09-28,Personal Care,732
+2025-10-05,Personal Care,677
+2025-10-12,Personal Care,765
+2025-10-19,Personal Care,728
+2025-10-26,Personal Care,745
+2025-11-02,Personal Care,806
+2025-11-09,Personal Care,846
+2025-11-16,Personal Care,896
+2025-11-23,Personal Care,911
+2025-11-30,Personal Care,981
+2025-12-07,Personal Care,918
+2025-12-14,Personal Care,1027
+2025-12-21,Personal Care,936
+2025-12-28,Personal Care,830
+2024-01-07,Produce,1024
+2024-01-14,Produce,899
+2024-01-21,Produce,658
+2024-01-28,Produce,1055
+2024-02-04,Produce,1008
+2024-02-11,Produce,847
+2024-02-18,Produce,869
+2024-02-25,Produce,905
+2024-03-03,Produce,622
+2024-03-10,Produce,748
+2024-03-17,Produce,920
+2024-03-24,Produce,658
+2024-03-31,Produce,854
+2024-04-07,Produce,652
+2024-04-14,Produce,903
+2024-04-21,Produce,852
+2024-04-28,Produce,669
+2024-05-05,Produce,1048
+2024-05-12,Produce,828
+2024-05-19,Produce,851
+2024-05-26,Produce,1011
+2024-06-02,Produce,1168
+2024-06-09,Produce,922
+2024-06-16,Produce,1094
+2024-06-23,Produce,1182
+2024-06-30,Produce,1250
+2024-07-07,Produce,1228
+2024-07-14,Produce,1192
+2024-07-21,Produce,1167
+2024-07-28,Produce,1320
+2024-08-04,Produce,1193
+2024-08-11,Produce,974
+2024-08-18,Produce,1419
+2024-08-25,Produce,1503
+2024-09-01,Produce,1097
+2024-09-08,Produce,1294
+2024-09-15,Produce,1506
+2024-09-22,Produce,1693
+2024-09-29,Produce,1437
+2024-10-06,Produce,1345
+2024-10-13,Produce,1413
+2024-10-20,Produce,1604
+2024-10-27,Produce,1331
+2024-11-03,Produce,1292
+2024-11-10,Produce,1311
+2024-11-17,Produce,1417
+2024-11-24,Produce,1520
+2024-12-01,Produce,1680
+2024-12-08,Produce,1478
+2024-12-15,Produce,1367
+2024-12-22,Produce,1330
+2024-12-29,Produce,1136
+2025-01-05,Produce,1217
+2025-01-12,Produce,1067
+2025-01-19,Produce,1016
+2025-01-26,Produce,1416
+2025-02-02,Produce,1015
+2025-02-09,Produce,847
+2025-02-16,Produce,867
+2025-02-23,Produce,1050
+2025-03-02,Produce,911
+2025-03-09,Produce,706
+2025-03-16,Produce,997
+2025-03-23,Produce,802
+2025-03-30,Produce,1136
+2025-04-06,Produce,1045
+2025-04-13,Produce,860
+2025-04-20,Produce,1093
+2025-04-27,Produce,956
+2025-05-04,Produce,1085
+2025-05-11,Produce,1073
+2025-05-18,Produce,939
+2025-05-25,Produce,995
+2025-06-01,Produce,1238
+2025-06-08,Produce,1099
+2025-06-15,Produce,1118
+2025-06-22,Produce,1085
+2025-06-29,Produce,1298
+2025-07-06,Produce,1541
+2025-07-13,Produce,1168
+2025-07-20,Produce,1343
+2025-07-27,Produce,1550
+2025-08-03,Produce,1382
+2025-08-10,Produce,1462
+2025-08-17,Produce,1290
+2025-08-24,Produce,1508
+2025-08-31,Produce,1452
+2025-09-07,Produce,1611
+2025-09-14,Produce,1640
+2025-09-21,Produce,1824
+2025-09-28,Produce,1560
+2025-10-05,Produce,1522
+2025-10-12,Produce,1498
+2025-10-19,Produce,1419
+2025-10-26,Produce,1488
+2025-11-02,Produce,1384
+2025-11-09,Produce,1413
+2025-11-16,Produce,1726
+2025-11-23,Produce,1397
+2025-11-30,Produce,1640
+2025-12-07,Produce,1633
+2025-12-14,Produce,1410
+2025-12-21,Produce,1125
+2025-12-28,Produce,1282
+2024-01-07,Snacks,1104
+2024-01-14,Snacks,1135
+2024-01-21,Snacks,1195
+2024-01-28,Snacks,1113
+2024-02-04,Snacks,1183
+2024-02-11,Snacks,1119
+2024-02-18,Snacks,1179
+2024-02-25,Snacks,1153
+2024-03-03,Snacks,1175
+2024-03-10,Snacks,1217
+2024-03-17,Snacks,1103
+2024-03-24,Snacks,1334
+2024-03-31,Snacks,1088
+2024-04-07,Snacks,1058
+2024-04-14,Snacks,1241
+2024-04-21,Snacks,1195
+2024-04-28,Snacks,1166
+2024-05-05,Snacks,1155
+2024-05-12,Snacks,1087
+2024-05-19,Snacks,995
+2024-05-26,Snacks,1052
+2024-06-02,Snacks,974
+2024-06-09,Snacks,1084
+2024-06-16,Snacks,975
+2024-06-23,Snacks,902
+2024-06-30,Snacks,922
+2024-07-07,Snacks,969
+2024-07-14,Snacks,877
+2024-07-21,Snacks,835
+2024-07-28,Snacks,908
+2024-08-04,Snacks,895
+2024-08-11,Snacks,828
+2024-08-18,Snacks,822
+2024-08-25,Snacks,874
+2024-09-01,Snacks,739
+2024-09-08,Snacks,746
+2024-09-15,Snacks,801
+2024-09-22,Snacks,847
+2024-09-29,Snacks,896
+2024-10-06,Snacks,999
+2024-10-13,Snacks,968
+2024-10-20,Snacks,904
+2024-10-27,Snacks,929
+2024-11-03,Snacks,872
+2024-11-10,Snacks,978
+2024-11-17,Snacks,1153
+2024-11-24,Snacks,1220
+2024-12-01,Snacks,1150
+2024-12-08,Snacks,1285
+2024-12-15,Snacks,1388
+2024-12-22,Snacks,1281
+2024-12-29,Snacks,1347
+2025-01-05,Snacks,1218
+2025-01-12,Snacks,1151
+2025-01-19,Snacks,1210
+2025-01-26,Snacks,1207
+2025-02-02,Snacks,1228
+2025-02-09,Snacks,1168
+2025-02-16,Snacks,1247
+2025-02-23,Snacks,1289
+2025-03-02,Snacks,1369
+2025-03-09,Snacks,1333
+2025-03-16,Snacks,1433
+2025-03-23,Snacks,1193
+2025-03-30,Snacks,1323
+2025-04-06,Snacks,1261
+2025-04-13,Snacks,1409
+2025-04-20,Snacks,1159
+2025-04-27,Snacks,1143
+2025-05-04,Snacks,1145
+2025-05-11,Snacks,1007
+2025-05-18,Snacks,1115
+2025-05-25,Snacks,1078
+2025-06-01,Snacks,1133
+2025-06-08,Snacks,1134
+2025-06-15,Snacks,1233
+2025-06-22,Snacks,1146
+2025-06-29,Snacks,999
+2025-07-06,Snacks,956
+2025-07-13,Snacks,1052
+2025-07-20,Snacks,893
+2025-07-27,Snacks,1130
+2025-08-03,Snacks,1066
+2025-08-10,Snacks,924
+2025-08-17,Snacks,816
+2025-08-24,Snacks,1060
+2025-08-31,Snacks,942
+2025-09-07,Snacks,1049
+2025-09-14,Snacks,829
+2025-09-21,Snacks,916
+2025-09-28,Snacks,975
+2025-10-05,Snacks,992
+2025-10-12,Snacks,963
+2025-10-19,Snacks,1063
+2025-10-26,Snacks,948
+2025-11-02,Snacks,1043
+2025-11-09,Snacks,1085
+2025-11-16,Snacks,1309
+2025-11-23,Snacks,1352
+2025-11-30,Snacks,1227
+2025-12-07,Snacks,1219
+2025-12-14,Snacks,1467
+2025-12-21,Snacks,1414
+2025-12-28,Snacks,1354

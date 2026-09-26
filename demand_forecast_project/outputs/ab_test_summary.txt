@@ -1,0 +1,15 @@
+A/B TEST ANALYSIS: Pricing / Promotion Change -> Conversion Rate
+=================================================================
+Control:   n=24,000   conversions=2,774   rate=11.5583%
+Treatment: n=24,000   conversions=2,963   rate=12.3458%
+
+Absolute lift:            0.7875%
+Relative lift:            6.81%
+95% CI (absolute diff):   [0.2071%, 1.3679%]
+95% CI (relative lift):   [1.79%, 11.83%]
+
+Two-proportion z-test:    z = 2.659,  p-value = 0.00783
+Chi-square test (cross-check): chi2 = 7.072, p-value = 0.00783
+
+Result at alpha = 0.05: STATISTICALLY SIGNIFICANT
+=> Reject H0. The promotion/pricing change increased conversion by ~6.8% (relative), with 95% confidence the true relative lift is between 1.8% and 11.8%.

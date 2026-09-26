@@ -1,0 +1,3 @@
+Average naive-baseline MAPE across 12 categories: 12.91%
+Average SARIMA MAPE across 12 categories: 8.99%
+Average MAPE improvement vs naive baseline: 30.33%
