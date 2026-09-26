@@ -429,19 +429,3 @@ Potential extensions include:
 * Sequential testing considerations
 * Experiment segmentation and heterogeneous treatment effects
 * Interactive dashboards for forecasting and experiment results
-
----
-
-## Resume Alignment
-
-This project demonstrates experience with:
-
-* Time-series forecasting
-* SARIMA modeling
-* Forecast evaluation
-* Statistical hypothesis testing
-* A/B testing
-* Confidence intervals
-* Experiment analysis
-* Python-based data analysis
-* Business-oriented analytical problem solving
